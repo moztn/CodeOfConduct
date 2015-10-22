@@ -1,5 +1,16 @@
 # Welcome to the Mozilla community in Tunisia: *Mozilla Tunisia*
 
+## Mozilla Tunisia is
+
+- **Not a club**
+- Run by passionate individuals in the global Mozilla community
+- Represents Mozilla in Tunisia
+- A place to learn about Mozilla's mission and technologies
+- Open to the public with a public membership
+- A place to meet cool and smart people in tech
+
+## Guidelines
+
 The Mozilla community is for people who are interested in the Mozilla project and the Mozilla mission; everything from translating, teaching the web, speaking at conferences, coding and designing to projects like Firefox, Firefox OS, Webmaker
 
 - **Be nice**: we are all part of the same community, so be friendly, be welcoming, and generally be a nice person. Be someone that other people want to be around.
