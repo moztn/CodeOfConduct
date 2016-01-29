@@ -15,7 +15,9 @@ The Mozilla community is for people who are interested in the Mozilla project an
 
 - **Be nice**: we are all part of the same community, so be friendly, be welcoming, and generally be a nice person. Be someone that other people want to be around.
 
-- **Be respectful and constructive**: We're a diverse group (from all over Tunisia!), so we're not going to agree all the time. Remember to be respectful and constructive with your communication to your fellow Mozillians. Don't get into fights, don't make personal attacks, don't vent or rant unconstructively. __Everyone__ should take responsibility for the community and take the initiative to diffuse tension and stop a potential flamewar, fight or negative thread _as early as possible_.
+- **Be respectful**: We're a diverse group (from all over Tunisia!), so we're not going to agree all the time. Remember to be respectful and constructive with your communication to your fellow Mozillians. Don't get into fights, don't make personal attacks, don't vent or rant unconstructively.
+
+- **Be constructive**: __Everyone__ should take responsibility for the community. Take the initiative to diffuse tension and stop a potential flamewar, fight or negative thread _as early as possible_.
 
 - **Be collaborative**: Work together! We can learn a lot from each other. Share knowledge, update the etherpads, help each other out.
 
